@@ -4,7 +4,7 @@
   "description": "Simple offline calculator (HTML/CSS/JS) packaged as a Linux desktop app.",
   "main": "main.js",
   "author": "SaadTheLegend",
-  "license": "MIT",
+  "license": "GPL",
   "scripts": {
     "start": "electron .",
     "build:deb": "electron-builder --linux deb",
